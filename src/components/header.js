@@ -4,7 +4,7 @@ const head =() => {
   return (
     <div className='header'>
         <div className='image'>
-            <img src='assets/images/avatar-jessica.jpeg' alt='personne' />
+            <img src='assets/images/profil.jpg' alt='personne' />
         </div>
         <div className='identity'>
             <h1 className='name'>Charbel SONON</h1>

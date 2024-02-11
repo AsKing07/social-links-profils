@@ -2,35 +2,41 @@
 [
     {
       "nom": "GitHub",
-      "lien": "https://www.facebook.com",
+      "lien": "https://github.com/AsKing07",
       "logo": "fa-brands fa-github"
     },
     {
       "nom": "Frontend Mentor",
-      "lien": "https://www.facebook.com",
+      "lien": "https://www.frontendmentor.io/profile/AsKing07",
       "logo": "fa-solid fa-m"
     },
     {
       "nom": "LinkedIn",
-      "lien": "https://www.facebook.com",
+      "lien": "https://www.linkedin.com/in/charbel-sonon-1a121223b/",
       "logo": "fa-brands fa-linkedin"
 
     },
     {
       "nom": "Facebook",
-      "lien": "https://www.facebook.com",
+      "lien": "https://www.facebook.com/charbel.Asking",
       "logo": "fa-brands fa-facebook"
 
     },
     {
-      "nom": "Twitter",
-      "lien": "https://www.twitter.com",
-      "logo": "fa-brands fa-twitter"
+      "nom": "Portfolio",
+      "lien": "https://charbelsnndev.vercel.app/",
+      "logo": "fa-solid fa-globe"
     },
     {
       "nom": "Instagram",
-      "lien": "https://www.instagram.com",
+      "lien": "https://www.instagram.com/its_jorex?igsh=ZGVudmM1Y2Jlczlr&utm_source=qr",
       "logo": "fa-brands fa-instagram"
+
+    },
+    {
+      "nom": "Mail",
+      "lien": "charbelsnn@gmail.com",
+      "logo": "fa-solid fa-envelope"
 
     }
 ]

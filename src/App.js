@@ -28,6 +28,12 @@ function App() {
         </li>
       ))} */}
 
+      <footer>
+      <div className="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://charbelsnndev.vercel.app/">Charbel SONON</a>.
+  </div>
+      </footer>
       
     </div>
   );

@@ -10,9 +10,10 @@ body
 .container
 {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .card
@@ -43,6 +44,7 @@ body
 img
 {
   border-radius: 50%;
+  width: 50%;
 }
 
 span
@@ -91,3 +93,41 @@ span
 {
   margin-right: 10px;
 } 
+
+.attribution a
+{
+ text-decoration: none;
+ color: hsl(75, 94%, 57%);
+
+}
+
+@media only screen and (max-width: 768px) 
+{
+  .container
+  {
+    height: 100%;
+  }
+  
+ .card
+ {
+  margin: 20px ;
+ }
+
+
+ 
+}
+@media only screen and (max-width: 480px) 
+{
+  .container
+  {
+    height: 100%;
+  }
+  
+ .card
+ {
+  margin: 20px ;
+ }
+
+
+ 
+}
