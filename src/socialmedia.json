@@ -1,0 +1,36 @@
+
+[
+    {
+      "nom": "GitHub",
+      "lien": "https://www.facebook.com",
+      "logo": "fa-brands fa-github"
+    },
+    {
+      "nom": "Frontend Mentor",
+      "lien": "https://www.facebook.com",
+      "logo": "fa-solid fa-m"
+    },
+    {
+      "nom": "LinkedIn",
+      "lien": "https://www.facebook.com",
+      "logo": "fa-brands fa-linkedin"
+
+    },
+    {
+      "nom": "Facebook",
+      "lien": "https://www.facebook.com",
+      "logo": "fa-brands fa-facebook"
+
+    },
+    {
+      "nom": "Twitter",
+      "lien": "https://www.twitter.com",
+      "logo": "fa-brands fa-twitter"
+    },
+    {
+      "nom": "Instagram",
+      "lien": "https://www.instagram.com",
+      "logo": "fa-brands fa-instagram"
+
+    }
+]
