@@ -12,19 +12,19 @@
     },
     {
       "nom": "LinkedIn",
-      "lien": "https://www.linkedin.com/in/charbel-sonon-1a121223b/",
+      "lien": "https://www.linkedin.com/in/charbel-sonon/",
       "logo": "fa-brands fa-linkedin"
 
     },
     {
       "nom": "Facebook",
-      "lien": "https://www.facebook.com/charbel.Asking",
+      "lien": "https://www.facebook.com/charbel.sonon",
       "logo": "fa-brands fa-facebook"
 
     },
     {
       "nom": "Portfolio",
-      "lien": "https://charbelsnndev.vercel.app/",
+      "lien": "https://charbelsnn.com",
       "logo": "fa-solid fa-globe"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "nom": "Mail",
-      "lien": "charbelsnn@gmail.com",
+      "lien": "contact@charbelsnn.com",
       "logo": "fa-solid fa-envelope"
 
     }

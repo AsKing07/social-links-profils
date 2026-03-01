@@ -8,7 +8,7 @@ const head =() => {
         </div>
         <div className='identity'>
             <h1 className='name'>Charbel SONON</h1>
-            <span>Cotonou, Benin </span>
+            <span>Paris, France </span>
             <p className='fontion'>"Full Stack Developer | Web Designer"</p>
         </div>
     </div>
