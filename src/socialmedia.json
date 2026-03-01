@@ -35,7 +35,7 @@
     },
     {
       "nom": "Mail",
-      "lien": "contact@charbelsnn.com",
+      "lien": "mailto:contact@charbelsnn.com",
       "logo": "fa-solid fa-envelope"
 
     }

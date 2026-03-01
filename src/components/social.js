@@ -5,7 +5,7 @@ export default function social(props) {
   return (
     
     
-        <a className='socialLink' href={`https://${props.lien}`}>
+        <a className='socialLink' href={`${props.lien}`}>
         <FontAwesomeIcon className='icon' icon={props.logo} /> 
             {props.nom}
         </a>

@@ -21,11 +21,6 @@ function App() {
         ))}
       </div>
       </div>
-      {/* {reseauxSociaux.map((reseau, index)=>(
-        <li key={index}>
-          <a href={reseau.lien} target="_blank" rel="noopener noreferrer">{reseau.nom}</a>
-        </li>
-      ))} */}
 
       <footer>
       <div className="attribution">
